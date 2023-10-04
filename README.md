@@ -9,10 +9,9 @@
  The html concepts that were used were simple div tags,input tags,paragraph and image tags and these tags were used by dividing the 
  page into three sections header footer and hero section
  
+![81e4vz (1)](https://github.com/HI-I-AM-MANIK/Amazon-Clone/assets/142866997/e770e8b3-9bc8-4056-9324-6d051544cd74)
 
  
- 
-![81e4p3](https://github.com/HI-I-AM-MANIK/Amazon-Clone/assets/142866997/c7c271bf-636c-428f-8996-a54cf958fc2b)
 
 
 The effects that can be seen are implemented using css
